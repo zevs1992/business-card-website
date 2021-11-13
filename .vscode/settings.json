@@ -1,0 +1,11 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+       { "format": "expanded",
+        "autoprefix": "last 5 versions",
+        "extensionsName": ".css",
+        "savePath": "css"
+       }
+    ],
+}
